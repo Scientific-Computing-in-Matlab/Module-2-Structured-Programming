@@ -4,7 +4,7 @@ In this module, you learn how to structure your scripts, how to document your co
 
 ## Materials
 
-- Study the concepts discussed in the [Structured Programming file](./docs/StructuredProgramming.mlx)
+- Study the Structured Programming MLX file (_./docs/StructuredProgramming.mlx_)
 - Become familiar with good programming style in the [Matlab Style book](./docs/MatlabStyle2Book.pdf) by Richard Johnson.
 - Watch a [video tutorial](https://youtu.be/BPvOzoFmHao) (without sound!) that takes an example unstructured script and turns it into a better, more structured script and a function.
 - Watch [another video tutorial](https://youtu.be/Er81ZxfbOTI) about creating analysis functions that are flexible and result in reusable code.
@@ -33,4 +33,4 @@ For instance, you could add it to the code for the Structure Assignment above.
 
 For additional practice, complete the assignments in the Structured Programming handout (some of these are available on [Matlab Grader](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023), in the Scripts, Functions & Flow Control section, where you can get some immediate feedback on your proposed solutions).
 
-If you're not yet too familiar with the different kinds of loops and other flow control, please have a look at the [Flow Control handout](./docs/FlowControl.mlx) or revisit the flow control sections  (3. Program Flow - I and 4. Program Flow - II ) in the Matlab Basics module.
+If you're not yet too familiar with the different kinds of loops and other flow control, please have a look at the Flow Control MLX file (_./docs/FlowControl.mlx_) or revisit the flow control sections  ([Program Flow - I](https://github.com/Scientific-Computing-in-Matlab/Module-0-Matlab-Basics/blob/main/docs/ProgramFlow-I.md) and [Program Flow - II](https://github.com/Scientific-Computing-in-Matlab/Module-0-Matlab-Basics/blob/main/docs/ProgramFlow-II.md) in the Matlab Basics module.
